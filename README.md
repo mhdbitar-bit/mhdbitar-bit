@@ -1,8 +1,3 @@
-* 👋 Hi there, I’m Mohamad Bitar, Wlecome to my Github profile
-- 👀 I’m interested in Software Engineering, Clean Code, Clean Architecute and Testing 
+# 👋 Hi there, I’m Mohamad Bitar, Welcome to my Github profile
 
-
-<!---
-mhdbitar-bit/mhdbitar-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a senior iOS engineer I love writing clean code with keeping testing in mind, also I have a clear understanding of the iOS ecosystem and Mobile development.
