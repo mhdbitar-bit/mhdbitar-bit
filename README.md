@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Mohamad Bitar, Wlecome to my Github profile
+* 👋 Hi there, I’m Mohamad Bitar, Wlecome to my Github profile
 - 👀 I’m interested in Software Engineering, Clean Code, Clean Architecute and Testing 
 
 
