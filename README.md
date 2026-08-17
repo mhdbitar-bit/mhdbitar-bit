@@ -8,5 +8,5 @@ I'm an iOS engineer I love writing clean code with keeping testing in mind, also
 
 * https://mohamad-bitar.me/
 
-* My other github account: https://github.com/mhdbitar
+* My previous github account: https://github.com/mhdbitar
 
